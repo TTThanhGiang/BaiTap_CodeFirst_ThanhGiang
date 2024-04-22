@@ -1,0 +1,6 @@
+@BaiTap_CodeFirst_ThanhGiang_HostAddress = http://localhost:5193
+
+GET {{BaiTap_CodeFirst_ThanhGiang_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
